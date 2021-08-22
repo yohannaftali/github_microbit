@@ -1,9 +1,9 @@
 music.onEvent(MusicEvent.MelodyNotePlayed, function () {
     basic.showLeds(`
-        . . # # .
-        . # . # .
-        # . . # .
-        # . . # #
+        . . # # #
+        . # . . #
+        . # . . #
+        . # . # #
         # # . . .
         `)
 })
